@@ -5,7 +5,7 @@
 
 *By Yutong Zou and Sannidhi Patel.*
 
-[Open in Colab](#) *(update this link once your notebook is pushed)*
+[Open in Colab](https://colab.research.google.com/github/yutongzou07/house-price-prediction-ibuyer-analysis/blob/main/Housing_Prediction_ML.ipynb)*
 
 ## Business Problem
 
